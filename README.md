@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Samuel 👋
 
-<!--
-**samuelszulc/samuelszulc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Program Manager with 10+ years in engineering, manufacturing and testing.
+I turn ambiguous business goals into working systems, from test laboratories to internal software tools.
 
-Here are some ideas to get you started:
+### What I work on
+- Program and project management of cross-functional engineering initiatives
+- Process automation and internal tools for manufacturing (planning, BOM handling, reporting)
+- Data analysis and machine learning in Python (e.g. defect classification in non-destructive testing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Background
+- Executive MBA, industrial PhD candidate (transport engineering)
+- Internal ISO 9001 auditor
+- Languages: Polish (native), English (C1), German (B2)
+
+📫 [LinkedIn](https://www.linkedin.com/in/samuel-szulc-725345107/)
