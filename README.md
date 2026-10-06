@@ -11,6 +11,7 @@ I turn ambiguous business goals into working systems, from test laboratories to 
 
 ### Background
 - Executive MBA, industrial PhD candidate (transport engineering)
+- Publications: *Rail Vehicles* 2024 ([DOI](https://doi.org/10.53502/RAIL-188072)), conference paper on acoustic resonance testing (Transport of the 21st Century, 2025); journal article under review in *Production Engineering* · [ORCID](https://orcid.org/0009-0003-0454-0848)
 - Internal ISO 9001 auditor
 - Languages: Polish (native), English (C1), German (B2)
 
